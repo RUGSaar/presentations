@@ -5,3 +5,4 @@ presentations
 * 5 / RubyMotion: Ruby for iOS and OS X
 * 7 / FreeBSD-Benutzung durch Robert
 * 8 / Rails 4 Vorschau
+* 12 / Redis Overview
